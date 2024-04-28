@@ -1,16 +1,18 @@
-### Hi there 👋
+# Rafael Luiz
 
-<!--
-**lzfael/lzfael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Estudante de Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante apaixonado por tecnologia, focado no desenvolvimento de sistemas. Atualmente cursando o ensino médio técnico em desenvolvimento de sistemas, buscando adquirir conhecimentos para ingressar na indústria de tecnologia.
+
+## Áreas de Interesse
+
+- Desenvolvimento de Sistemas
+- Programação Web 
+
+## Conecte-se Comigo
+
+- LinkedIn: Rafael Luiz(https://www.linkedin.com/in/rafael-luiz-68b86a2a5/)
+- GitHub: lzfael(https://github.com/lzfael)
+- E-mail: luizrafaelcontato@gmail.com
