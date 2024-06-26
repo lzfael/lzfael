@@ -1,6 +1,6 @@
 # Rafael Luiz
 
-👨‍💻 Estudante de Desenvolvimento de Sistemas
+Estudante de Desenvolvimento de Sistemas
 
 ## Sobre Mim
 
