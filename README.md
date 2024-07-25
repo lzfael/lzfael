@@ -8,8 +8,8 @@ Estudante apaixonado por tecnologia, focado no desenvolvimento de sistemas. Atua
 
 ## Áreas de Interesse
 
-- Desenvolvimento de Sistemas
-- Programação Web 
+- Engenharia de Sotfware
+- Desenvolvimento Web
 
 ## Conecte-se Comigo
 
